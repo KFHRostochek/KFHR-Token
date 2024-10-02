@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="https://kfhrostochek.ru/img/snapedit_172755020955514" width="600"/>
+    <img src="https://kfhrostochek.ru/img/snapedit_172755020955514.png" width="600"/>
     <br>
 <p>
 <p align="center">
