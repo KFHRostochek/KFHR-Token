@@ -1,17 +1,8 @@
 <p align="center">
     <br>
-    <img src="https://kfhrostochek.ru/img/logo_kfhr.png" width="256"/>
+    <img src="https://kfhrostochek.ru/img/logo_kfhr.png" width="200"/>
     <br>
 <p>
-<p align="center">
-    <img alt="Build" src="https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg">
-    <a href="https://github.com/KFHRostochek/KFHR-Token/blob/main/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/huggingface/tokenizers.svg?color=blue&cachedrop">
-    </a>
-    <a href="https://pepy.tech/project/tokenizers">
-        <img src="https://pepy.tech/badge/tokenizers/week" />
-    </a>
-</p>
 
 Provides an implementation of today's most used tokenizers, with a focus on performance and
 versatility.
