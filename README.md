@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="https://kfhrostochek.ru/img/logo_kfhr.png" width="600"/>
+    <img src="https://kfhrostochek.ru/img/logo_kfhr.png" width="256"/>
     <br>
 <p>
 <p align="center">
