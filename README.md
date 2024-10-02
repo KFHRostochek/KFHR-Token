@@ -5,7 +5,7 @@
 <p>
 <p align="center">
     <img alt="Build" src="https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg">
-    <a href="https://github.com/huggingface/tokenizers/blob/main/LICENSE">
+    <a href="https://github.com/KFHRostochek/KFHR-Token/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/huggingface/tokenizers.svg?color=blue&cachedrop">
     </a>
     <a href="https://pepy.tech/project/tokenizers">
